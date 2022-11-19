@@ -1,0 +1,9 @@
+{
+  "name": "node-cjs",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "itzmono-vite-lib": "../../"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "node-esm",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "itzmono-vite-lib": "../../"
+  }
+}
